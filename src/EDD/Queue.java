@@ -7,10 +7,7 @@ package EDD;
 import MainClass.Process;
 import java.util.concurrent.Semaphore;
 
-/**
- *
- * @author Moises Liota
- */
+
 public class Queue {
     private Node head;
     private Node tail;

@@ -6,7 +6,7 @@ package EDD;
 
 /**
  *
- * @author Moises Liota
+ *
  */
 public class Node {
     private Object data;
